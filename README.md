@@ -39,10 +39,10 @@ trayectoria cerrada de nodos es igual a la suma de las elevaciones de voltaje de
 
 5.LISTA DE COMPONENTES
 
-![](materiales.jpg)
+![](IMG/materiales.jpg)
 
 
-6. EXPLICACIÓN 
+5. EXPLICACIÓN 
 
 A modo de una explicación clara se tomará en cuenta el flujo de electrones desde el lado positivo de la fuente de voltaje, hacia el lado negativo de la misma. El circuito eléctrico siempre tiene el mismo funcionamiento, ya sea simple o complejo. 
 
@@ -66,6 +66,31 @@ Una vez que la corriente de electrones logra vencer la primera resistencia (1 oh
 ![](IMG/3.JPG)
 
 
+6. CONCLUSIONES:
 
+• Los errores presentes en el análisis de las dos leyes de Kirchhoff se originan debido a la toma de valores del simulador, los cuales ocupan menos cifras decimales, esto en un modo práctico no es recomendable hacer. Por otro lado, para los valores calculados se tomaron en cuenta más cifras significativas y nos arrojaron un valor más aproximado a la realidad. Siendo causa generadora del error porcentual en el laboratorio. Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 1% en su mayoría.
+
+•	Se corroboró la primera ley de Kirchhoff. En un nodo, la suma de corrientes entrantes es igual a la suma de corrientes salientes. Con los valores experimentales, estas sumas son iguales. De igual forma la segunda ley de Kirchhoff también fue verificada. En una malla, la suma algebraica de voltajes es igual a cero. Con los valores hallados experimentalmente, y el empleo de tablas, validamos esta ley.
+
+•El manejo de las leyes de Kirchhoff pueden resolver sin mayor complicación circuitos eléctricos complejos mediante la reducción de los mismos a circuitos más simples.
+
+•Se hizo uso del multímetro y la forma en medir la intensidad de corriente y voltaje. Existen condiciones que hay que tener en el circuito antes
+de utilizar el multímetro para que no se cometan errores en la medición y obtener un buen resultado.
+
+
+
+
+7. BIBLIOGRAFÍA
+
+
+•Ruíz Vázquez, T., Fraile, J., Nilsson, J. W., & Riedel, S. (2004). Análisis básico de circuitos eléctricos y electrónicos. Universitario, 76.
+
+•Alulema Darwin (2020). Capítulo 2. Ley de las Corrientes de Kirchhoff. Págs (56-77) 
+
+•Batlle Arnau, C., & Dòria Cerezo, A. (2010). De la mecánica clásica y las leyes de Kirchhoff a los sistemas hamiltonianos con puertos. La gaceta de la Real Sociedad Matemática Española, 13(1), 31-52.
+
+•AlaYoable. (2010). Electricidad: conceptos básicos. [Video]. Recuperado de: https://youtu.be/ElB3GrL4eCY. 
+
+•IngeDarwin. (2019). LEY DE KIRCHHOFF (MALLAS) / EJERCICIO 1 [Video]. Recuperado de: https://www.youtube.com/watch?v=1NC9kGDn7Bg
 
 
