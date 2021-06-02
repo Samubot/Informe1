@@ -93,4 +93,5 @@ de utilizar el multímetro para que no se cometan errores en la medición y obte
 
 ◙ IngeDarwin. (2019). LEY DE KIRCHHOFF (MALLAS) / EJERCICIO 1 [Video]. [Recuperado de]: https://www.youtube.com/watch?v=1NC9kGDn7Bg
 
+8. ANEXOS
 
