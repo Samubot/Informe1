@@ -31,9 +31,11 @@ trayectoria cerrada de nodos es igual a la suma de las elevaciones de voltaje de
 ![](IMG/diagramasiste.jpg)
 
 ☻Diagrama de medición de amperaje
+![](IMG/diagramacorri.jpg)
 
 
 ☻Diagrama de medición de voltaje
+![](IMG/diagramavoltaje.jpg)
 
 5.LISTA DE COMPONENTES
 
