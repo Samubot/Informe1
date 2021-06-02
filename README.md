@@ -62,5 +62,9 @@ Una vez que la corriente de electrones logra vencer la primera resistencia (1 oh
 
 -Tabla 1.3. Verificación de la LCK:
 
+![](IMG/3.JPG)
+
+
+
 
 
