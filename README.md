@@ -53,4 +53,5 @@ Una vez que la corriente de electrones logra vencer la primera resistencia (1 oh
  
 
 -Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito: 
+![](IMG/Captura.JPG)
 
