@@ -15,14 +15,14 @@ Ley de Kirchhoff
 
 2. MARCO TEÓRICO
 
-◙ Las leyes de voltajes y corrientes de Kirchhoff cuyas abreviaciones son LVK y LCK respectivamente, son dos métodos utilizados en el análisis de circuitos eléctricos basados en el principio de conservación de la energía y la carga en los circuitos eléctricos.  
+◙ Las leyes de voltajes y corrientes de Kirchhoff son dos métodos utilizados en el análisis de circuitos eléctricos basados en el principio de conservación de la energía y la carga en los circuitos eléctricos.  
 
 - Estas leyes establecen:
 
-☻ Ley de Kirchhoff de Corrientes: La suma de las corrientes entrantes a un
+☻ Ley de Kirchhoff de Corrientes(KCL): La suma de las corrientes entrantes a un
 nodo es igual a la suma de las corrientes salientes del mismo.
 
-☻ Ley de Kirchhoff de Voltajes: La suma algebraica de las caídas de voltaje en una
+☻ Ley de Kirchhoff de Voltajes(KVL): La suma algebraica de las caídas de voltaje en una
 trayectoria cerrada de nodos es igual a la suma de las elevaciones de voltaje de la misma.
 
 3. DIAGRAMAS
@@ -44,11 +44,11 @@ trayectoria cerrada de nodos es igual a la suma de las elevaciones de voltaje de
 
 5. EXPLICACIÓN 
 
-A modo de una explicación clara se tomará en cuenta el flujo de electrones desde el lado positivo de la fuente de voltaje, hacia el lado negativo de la misma. El circuito eléctrico siempre tiene el mismo funcionamiento, ya sea simple o complejo. 
+Para una explicación didáctica se tomará el flujo de electrones del polo positivo al negativo, sin embargo, hay que recordar que en la realidad esto sucede al revés.
 
-El voltaje, la tensión o diferencia de potencial que suministra la fuente de alimentación al circuito se caracteriza por tener su valor fijo (10 V). En dependencia de la mayor o menor resistencia en ohmios que encuentre el flujo de corriente de electrones al recorrer el circuito, así será su intensidad en amperios. Al inicio nos encontramos con una resistencia de 1kohm. 
+El voltaje, la tensión o diferencia de potencial suministrado por la fuente es de 10V.La intensidad en amperios se determinará segun la mayor o menor resistencia que encuentre el flujo de electrones al pasar por el circuito, asi, nos encontramos con una resistencia de 1kΩ.
 
-Una vez que la corriente de electrones logra vencer la primera resistencia (1 ohm) y las posteriores, la corriente eléctrica retorna a la fuente de fuerza electromotriz por su polo negativo. El flujo de corriente eléctrica o de electrones se mantendrá circulando por el circuito hasta tanto no se accione el interruptor que permite detenerlo, en este caso, al detener la simulación. La resistencia eléctrica tiene la función de oponerse al paso de corriente eléctrica en el circuito. Esta característica de oposición al paso de la corriente eléctrica, produce una serie de efectos de los cuales podemos ser testigos. Efectos como la caída de tensión (divisor de tensión) o establecer la corriente que va a circular por una rama poniendo una resistencia u otra en paralelo.   
+Una vez concluido el circuito, la corriente retorna a la fuente por su polo negativo y continuará de esta forma, siempre que no se corte el circuito o en nuestro caso, al ser un laboratorio virtual, mientras no se detenga la simulación el flujo de corriente eléctrica o de electrones se mantendrá circulando.La resistencia eléctrica tiene la función de oponerse al paso de corriente eléctrica en el circuito. Esta característica de oposición al paso de la corriente eléctrica, produce una serie de efectos de los cuales podemos ser testigos. Efectos como la caída de tensión  o establecer la corriente que va a circular por una rama poniendo una resistencia u otra en paralelo.   
 
 *Resultados obtenidos de voltaje y corriente, en cada elemento del circuito:*
  
