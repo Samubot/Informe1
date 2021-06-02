@@ -63,7 +63,7 @@ Una vez concluido el circuito, la corriente retorna a la fuente por su polo nega
 
 -Tabla 1.3. Verificación de la LCK:
 
-![](IMG/2 CORRIENTE.jpg)
+![](IMG/44444.jpg)
 
 
 6. CONCLUSIONES:
