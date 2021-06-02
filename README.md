@@ -83,14 +83,14 @@ de utilizar el multímetro para que no se cometan errores en la medición y obte
 7. BIBLIOGRAFÍA
 
 
-•Ruíz Vázquez, T., Fraile, J., Nilsson, J. W., & Riedel, S. (2004). Análisis básico de circuitos eléctricos y electrónicos. Universitario, 76.
+◙ Ruíz Vázquez, T., Fraile, J., Nilsson, J. W., & Riedel, S. (2004). Análisis básico de circuitos eléctricos y electrónicos. Universitario, 76.
 
-•Alulema Darwin (2020). Capítulo 2. Ley de las Corrientes de Kirchhoff. Págs (56-77) 
+◙ Alulema D. (2020). Capítulo 2. Ley de las Corrientes de Kirchhoff. Págs (56-77) 
 
-•Batlle Arnau, C., & Dòria Cerezo, A. (2010). De la mecánica clásica y las leyes de Kirchhoff a los sistemas hamiltonianos con puertos. La gaceta de la Real Sociedad Matemática Española, 13(1), 31-52.
+◙ Batlle Arnau, C., & Dòria Cerezo, A. (2010). "De la mecánica clásica y las leyes de Kirchhoff a los sistemas hamiltonianos con puertos. La gaceta de la Real Sociedad Matemática Española", 13(1), 31-52.
 
-•AlaYoable. (2010). Electricidad: conceptos básicos. [Video]. Recuperado de: https://youtu.be/ElB3GrL4eCY. 
+◙ AlaYoable. (2010). Electricidad: conceptos básicos. [Video]. [Recuperado de]: https://youtu.be/ElB3GrL4eCY. 
 
-•IngeDarwin. (2019). LEY DE KIRCHHOFF (MALLAS) / EJERCICIO 1 [Video]. Recuperado de: https://www.youtube.com/watch?v=1NC9kGDn7Bg
+◙ IngeDarwin. (2019). LEY DE KIRCHHOFF (MALLAS) / EJERCICIO 1 [Video]. [Recuperado de]: https://www.youtube.com/watch?v=1NC9kGDn7Bg
 
 
