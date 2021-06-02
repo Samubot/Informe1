@@ -95,3 +95,5 @@ de utilizar el multímetro para que no se cometan errores en la medición y obte
 
 8. ANEXOS
 
+![](IMG/anex1.jpg)
+
