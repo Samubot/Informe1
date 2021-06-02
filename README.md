@@ -39,6 +39,7 @@ trayectoria cerrada de nodos es igual a la suma de las elevaciones de voltaje de
 
 5.LISTA DE COMPONENTES
 
+![](materiales.jpg)
 
 
 6. EXPLICACIÓN 
