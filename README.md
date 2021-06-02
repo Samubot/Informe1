@@ -95,8 +95,12 @@ de utilizar el multímetro para que no se cometan errores en la medición y obte
 
 8. ANEXOS
 
+◙ CÁLCULOS
+
 ![](IMG/anex1.jpg)
 
 ![](IMG/4ejr.jpg)
-◙ Diagrama de los nodos en el circuito
+
+◙ DIAGRAMA DE LOS NODOS DEL CIRCUITO
+
 ![](IMG/NODOS.jpg)
