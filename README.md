@@ -98,4 +98,5 @@ de utilizar el multímetro para que no se cometan errores en la medición y obte
 ![](IMG/anex1.jpg)
 
 ![](IMG/4ejr.jpg)
-
+◙ Diagrama de los nodos en el circuito
+![](IMG/NODOS.jpg)
