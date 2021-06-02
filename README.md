@@ -28,6 +28,7 @@ trayectoria cerrada de nodos es igual a la suma de las elevaciones de voltaje de
 3. DIAGRAMAS
 
 ☻Diagrama Sistemático
+![](IMG/diagramasiste.jpg)
 
 ☻Diagrama de medición de amperaje
 IMG/Tabla voltaje-intencidad.jpeg
