@@ -27,7 +27,8 @@ nodo es igual a la suma de las corrientes salientes del mismo.
 ☻ Ley de Kirchhoff de Voltajes(KVL): La suma algebraica de las caídas de voltaje en una
 trayectoria cerrada de nodos es igual a la suma de las elevaciones de voltaje de la misma.
 
-![LeyesDeKirchhoff2](https://user-images.githubusercontent.com/84453557/120724088-b70ba980-c498-11eb-9d8c-b4cb7cce4bc9.png)
+![LeyesDeKirchhoff2](https://user-images.githubusercontent.com/84453557/120724356-444efe00-c499-11eb-9e87-ae3cc99d279f.png)
+
 
 
 3. DIAGRAMAS
