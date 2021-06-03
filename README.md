@@ -17,6 +17,8 @@ Ley de Kirchhoff
 
 ◙ Las leyes de voltajes y corrientes de Kirchhoff son dos métodos utilizados en el análisis de circuitos eléctricos basados en el principio de conservación de la energía y la carga en los circuitos eléctricos.  
 
+![LeyesDeKirchhoff](https://user-images.githubusercontent.com/84453557/120724081-b07d3200-c498-11eb-8e3b-43d1456d33c5.png)
+
 - Estas leyes establecen:
 
 ☻ Ley de Kirchhoff de Corrientes(KCL): La suma de las corrientes entrantes a un
@@ -24,6 +26,9 @@ nodo es igual a la suma de las corrientes salientes del mismo.
 
 ☻ Ley de Kirchhoff de Voltajes(KVL): La suma algebraica de las caídas de voltaje en una
 trayectoria cerrada de nodos es igual a la suma de las elevaciones de voltaje de la misma.
+
+![LeyesDeKirchhoff2](https://user-images.githubusercontent.com/84453557/120724088-b70ba980-c498-11eb-9d8c-b4cb7cce4bc9.png)
+
 
 3. DIAGRAMAS
 
@@ -64,6 +69,17 @@ Una vez concluido el circuito, la corriente retorna a la fuente por su polo nega
 -Tabla 1.3. Verificación de la LCK:
 
 ![](IMG/44444.jpg)
+
+-Tabla 1.4. Cálculo de errores de la LVK:
+
+![ErroresLVK](https://user-images.githubusercontent.com/84453557/120724151-d60a3b80-c498-11eb-8222-77c6ff73aa61.png)
+
+
+-Tabla 1.5. Cálculo de errores de la LCK:
+
+![ErroresLCK](https://user-images.githubusercontent.com/84453557/120724164-d9052c00-c498-11eb-845f-4001d11572d4.png)
+
+
 
 
 6. CONCLUSIONES:
