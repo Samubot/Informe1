@@ -82,6 +82,9 @@ Una vez concluido el circuito, la corriente retorna a la fuente por su polo nega
 
 
 
+◙ VIDEO:
+https://youtu.be/ObnaUIoZBiQ
+
 
 6. CONCLUSIONES:
 
@@ -93,6 +96,9 @@ Una vez concluido el circuito, la corriente retorna a la fuente por su polo nega
 
 •Se hizo uso del multímetro y la forma en medir la intensidad de corriente y voltaje. Existen condiciones que hay que tener en el circuito antes
 de utilizar el multímetro para que no se cometan errores en la medición y obtener un buen resultado.
+
+
+
 
 
 
@@ -121,3 +127,5 @@ de utilizar el multímetro para que no se cometan errores en la medición y obte
 ◙ DIAGRAMA DE LOS NODOS DEL CIRCUITO
 
 ![](IMG/NODOS.jpg)
+
+
